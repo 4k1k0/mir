@@ -1,0 +1,24 @@
+html, body {
+    color: white;
+    background-color: #21232A;
+    font-family: "Helvetica Neue", Arial, Helvetia, sans-serif;
+    font-size: 1.3rem;
+    padding: 70px;
+}
+
+/*
+    Centrar contenido vertical y horizontalmente
+
+    ---------------------
+    |                   |
+    |                   |
+    |         x         |
+    |                   |
+    |                   |
+    ---------------------
+    Estilizar botones. Espacio horizontal y verticalmente. Border redondos. Color de fondo. Letra blanca.
+
+    ---------------------------
+    |      Texto de boton     |
+    ---------------------------
+ */
